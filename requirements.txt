@@ -1,0 +1,13 @@
+Flask
+numpy
+tensorflow
+Pillow
+matplotlib
+scikit-image
+scipy
+Werkzeug
+reportlab
+qrcode
+requests
+google-generativeai
+streamlit
