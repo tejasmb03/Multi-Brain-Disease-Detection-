@@ -14,3 +14,4 @@ Pillow
 Werkzeug
 streamlit
 google-generativeai
+gunicorn
